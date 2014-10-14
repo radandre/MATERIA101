@@ -1,0 +1,7 @@
+*.o
+applet/
+*~
+*.orig
+*.rej
+.svn/
+*.bak

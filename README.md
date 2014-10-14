@@ -1,4 +1,4 @@
 MATERIA101
 ==========
 
-A Marlin firmware for Materia101
+Files and firmware for Materia101

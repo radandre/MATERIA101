@@ -30,13 +30,13 @@
 #define MACHINE_3D 1
 
 #if MACHINE_3D == 1
-#define MACHINE_NAME "MATERIA 101"
+#define MACHINE_NAME "MATERIA 101     "
 #define FIRMWARE_URL "http://www.google.it"
 #endif
 
 #if MOTHERBOARD == 34 || MOTHERBOARD == 34
 	#ifndef MACHINE_NAME
-		#define MACHINE_NAME "MATERIA 101 "
+		#define MACHINE_NAME "MATERIA 101     "
 		#define FIRMWARE_URL "http://www.sharebot.it"
 	#endif
 #elif MOTHERBOARD == 80 || MOTHERBOARD == 80
